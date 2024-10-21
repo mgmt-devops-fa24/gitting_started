@@ -2,7 +2,7 @@
 
 ## Set up software
 
-1. Open [Git Desktop](https://desktop.github.com/download/})
+1. Open [Git Desktop](https://desktop.github.com/download/)
     1. In `Settings/Accounts`, sign in to GitHub
     2. In `Settings/Git`, ensure your name and email are properly set. Also ensure the Default branch name is set to `main`
 
